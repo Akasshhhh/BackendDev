@@ -1,0 +1,1 @@
+const mindGrenade = require('./mindGrenade')
